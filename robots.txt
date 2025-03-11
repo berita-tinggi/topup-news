@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berita-tinggi.github.io/topup-news/sitemap.xml
